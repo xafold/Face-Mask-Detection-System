@@ -14,6 +14,8 @@ Face Mask Detection System and Data Collector System Using Tensorflow and MTCNN.
 Please refer the [View requirement](requirements.txt) file for the installing the prerequisite for this project.
 
 ### Results
+#### Confusion Matrix 
+![Alt text](Images/Screenshot%202022-03-02%20195835.png)
 #### Accuracy and Loss of our model
 ![Alt text](Images/Screenshot%202022-03-02%20195645.png)
 ![Alt text](Images/Screenshot%202022-03-02%20195742.png)
