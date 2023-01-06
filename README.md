@@ -28,5 +28,5 @@ Please refer the [View requirement](requirements.txt) file for the installing th
 * **Group Project created for academic Major Project with my teammates: Simon Bista, Mahesh Mahato,Prasanna Khati** - [xafold](https://github.com/xafold)
 
 ## Acknowledgments
-Special thanks to  [R4j4n](https://github.com/R4j4n) fro helping us in this project and all my friend for contributing for data collection process
+Special thanks to [R4j4n](https://github.com/R4j4n) for helping us in this project and all my friend for contributing for data collection process.
 
